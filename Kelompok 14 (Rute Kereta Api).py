@@ -107,9 +107,9 @@ class DoublyLinkedList:
 def main():
     dll = DoublyLinkedList()
     while True:
-        print("=== Rute Kereta Api ===")
+        print("==== Rute Kereta Api ====")
         print("1. Tambah stasiun")
         print("2. Hapus stasiun")
         print("3. ")
-        print("=== Rute Kereta Api ===")
+        print("==== Rute Kereta Api ====")
         
